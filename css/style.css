@@ -40,17 +40,17 @@
 .main-photo {
     width: 50%;
     height: auto;
-    box-shadow: 2px 2px 2px #363636;
+    box-shadow: 2px 2px 2px #000000;
 }
 
 .main-title {
     font-size: 1.3em;
     color: #6A5ACD;
-    text-shadow: 2px 2px 2px #363636;
+    text-shadow: 2px 2px 2px #000000;
 }
 
 .text {
     font-size: 0.9em;
     color: #6A5ACD;
-    text-shadow: 2px 2px 2px #363636;
+    text-shadow: 2px 2px 2px #000000;
 }
